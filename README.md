@@ -1,3 +1,3 @@
 # Оглавление по лабораторным работам:
-1. Лабораторная работа №2: [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_2){:target="_blank"}
+1. Лабораторная работа №2: [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_2){:target="_blank"} <a href="https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_2" target="_blank">открыть</a>
 2. Лабораторная работа №3: [пока недоступно]
