@@ -19,3 +19,6 @@ def test_fib_coroutine():
     assert next(coro) == 1
     # Проверка сброса через send
     assert coro.send(True) == 0 
+
+if __name__ == "__main__":
+    pytest.main(["-v", __file__])
