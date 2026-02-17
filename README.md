@@ -4,4 +4,4 @@
 3. Лабораторная работа №4: [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_4)
 4. Лабораторная работа №5: [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_5)
 5. Лабораторная работа №6: [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_6)
-6. Лабораторная работа №7: [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_1%20(4%20sem))
+6. Лабораторная работа №1 (семестр 4): [открыть](https://github.com/veskprogrammer/Programming_2_course/tree/main/Lab_1%20(4%20sem))
