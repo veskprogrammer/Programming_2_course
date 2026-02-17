@@ -116,6 +116,7 @@ def fib_coroutine() -> Generator[int, int, None]:
 
 ```python
 import pytest
+from fibonacci import FibGetItem, FibIterator, fib_coroutine
 
 def test_fib_get_item():
     fib = FibGetItem()
@@ -136,6 +137,8 @@ def test_fib_coroutine():
     # Проверка сброса через send
     assert coro.send(True) == 0 
 
+if __name__ == "__main__":
+    pytest.main(["-v", __file__])
 ```
 
 ---
