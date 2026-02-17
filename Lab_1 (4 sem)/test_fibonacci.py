@@ -1,4 +1,5 @@
 import pytest
+from fibonacci import FibGetItem, FibIterator, fib_coroutine
 
 def test_fib_get_item():
     fib = FibGetItem()
